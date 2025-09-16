@@ -1,9 +1,9 @@
-# Hey there, nörtit! 👋
+# Hey there! 👋
 
-I'm Matias, a fullstack software developer passionate about crafting awesome websites and applications with a keen eye for *aesthetics*. Most of my coolest code is hidden in private repositories, but feel free to explore what's available here!
+I'm Matias, a fullstack developer who enjoys building clean, functional web applications. Most of my work lives in private repositories, but feel free to explore what's available here!
 
-🚀 I'm currently learning Svelte and Swift, and loving both so far. Fluent in Finnish and English, I enjoy working on visually appealing UIs and love tackling new challenges.
+🪚 Currently learning carpentry while spending my working hours with React, TypeScript, and Node.js. I work fluently in both Finnish and English.
 
-👨‍💻 At the moment, I'm working on a project for an unnamed Finnish social security provider using React and NodeJS. I'm always open to collaborations and improving user and developer experiences.
+👨‍💻 I've recently wrapped up helping rewrite a patient portal for a major Finnish healthcare provider and am always interested in new challenges and collaborations.
 
-🌐 Want to connect? Reach out on [LinkedIn](https://www.linkedin.com/in/matias-puhakka-17698b172/) or send me an email at matias.puhakka@gmail.com. I'm always happy to chat about projects or life in general!
+🌐 Want to connect? Drop me a line at matias@koodikko.fi - I'm always up for chatting about projects, tech, or whatever's on your mind!
